@@ -27,7 +27,7 @@ input[type="date"] {
   box-sizing: border-box;
 }
 button {
-  background: #ffb24d;
+  background: #EA4C89;
   border: none;
   padding: 12px 20px;
   border-radius: 8px;
@@ -38,7 +38,7 @@ button {
   font-weight: bold;
 }
 button:hover {
-  background: #ff9a1f;
+  background: #EF8EB1;
 }
 .result {
   margin-top: 25px;
